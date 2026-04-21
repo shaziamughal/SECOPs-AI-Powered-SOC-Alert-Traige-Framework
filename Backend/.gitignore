@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Virtual environments
+.venv/
+.venv312/
+
+# Secrets and local overrides
+.env
+.env.*
+!.env.example
+
+# Local DB and artifacts
+*.db
+*.db-journal

@@ -1,0 +1,5 @@
+{
+  "name": "SecOps AI - SOC Triage Framework",
+  "description": "An AI-powered SOC alert triage dashboard featuring real-time analytics, ML classification, and LLM-driven insights for cybersecurity analysts.",
+  "requestFramePermissions": []
+}
